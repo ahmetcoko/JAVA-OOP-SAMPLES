@@ -1,0 +1,1 @@
+This is a Java-based application for managing and querying sales data for a dropshipping business. The application reads data from CSV files, processes it, and provides various insights such as the most profitable product, the customer with the most purchases, and the total profit.
